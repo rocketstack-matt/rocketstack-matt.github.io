@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Matthew Bain",
+  "bio": "Matt is a Distinguished Engineer and has worked in Software Engineering for over 20 years, working mainly in the FinTech space. He is passionate about Software Architecture and DevOps.",
+  "url": "https://www.matthewba.in",
+  "location": "London, England",
+  "image": "/images/matt.png"
 }

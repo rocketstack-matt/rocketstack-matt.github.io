@@ -12,7 +12,7 @@ lang: en-US
 title: "matthewba.in"
 
 # A description of your site for meta tag, search engine results.
-description: "Distinguished Engineer, Software Architect & Automation Evangelist"
+description: "Distinguished Engineer, Software Architect & DevOps Evangelist"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://www.matthewba.in"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/favicon.ico
 
 domain: www.matthewba.in
 
