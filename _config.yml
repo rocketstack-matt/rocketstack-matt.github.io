@@ -12,7 +12,7 @@ lang: en-US
 title: "matthewba.in"
 
 # A description of your site for meta tag, search engine results.
-description: "Distinguished Engineer, Software Architect & DevOps Evangelist"
+description: "Software and cathedrals are much the same; first we build them, then we pray."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
