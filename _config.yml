@@ -18,12 +18,12 @@ description: "Distinguished Engineer, Software Architect & Automation Evangelist
 baseurl: ""
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://matthewba.in"
+url: "https://www.matthewba.in"
 
 # Favicon
 favicon: images/favicon.png
 
-domain: matthewba.in
+domain: www.matthewba.in
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
